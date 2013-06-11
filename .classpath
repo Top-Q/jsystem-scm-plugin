@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemApp.jar" sourcepath="/runner/lib/jsystemApp_src.zip"/>
+	<classpathentry kind="lib" path="lib/JavaHL.jar" sourcepath="/JavaHL"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemCore.jar" sourcepath="/runner/lib/jsystemCore_src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
